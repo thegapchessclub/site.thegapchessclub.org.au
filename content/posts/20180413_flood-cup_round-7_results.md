@@ -10,7 +10,7 @@ authors: tmorris
 | -------------- | --------------- | ----------- | ------ |
 | Chesley Cutler | Brian Willcock  |             | 0-1    |
 | Martin Laizans | Andrew Robinson | *postponed* |        |
-| Mark Pendrith  | Rex Scarf       |             | 0-1    |
+| Mark Pendrith  | Rex Scarf       | *postponed* |        |
 | Tony Howes     | Tony Morris     |             | ½-½    |
 
 ----
