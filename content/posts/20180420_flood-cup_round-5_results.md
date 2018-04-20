@@ -11,9 +11,9 @@ authors: tmorris
 | WHITE           | BLACK           | Notes       | Result |
 | --------------- | --------------- | ----------- | ------ |
 | Andrew Robinson | Brian Willcock  | *postponed* |        |
-| Chesley Cutler  | Rex Scarf       |             |        |
+| Chesley Cutler  | Rex Scarf       |             | 0-1    |
 | Martin Laizans  | Tony Morris     |             | 0-1    |
-| Mark Pendrith   | Tony Howes      |             |        |
+| Mark Pendrith   | Tony Howes      |             | 0-1    |
 
 ### Games
 
