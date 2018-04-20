@@ -19,5 +19,5 @@ authors: tmorris
 
 ##### Tony Howes v Tony Morris
 
-<iframe src="https://lichess.org/embed/0Rk8uqRn#0?theme=auto&amp;bg=auto"
+<iframe src="https://lichess.org/embed/0Rk8uqRn?theme=auto&amp;bg=auto"
 width=600 height=397 frameborder=0></iframe>
