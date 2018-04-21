@@ -4,7 +4,9 @@ date: 2018-04-13
 authors: tmorris
 ---
 
-### Draw
+### Results
+
+###### 20180413
 
 | WHITE          | BLACK           | Notes       | Result |
 | -------------- | --------------- | ----------- | ------ |
