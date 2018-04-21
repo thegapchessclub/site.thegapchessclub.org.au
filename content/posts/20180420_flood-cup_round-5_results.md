@@ -15,6 +15,8 @@ authors: tmorris
 | Martin Laizans  | Tony Morris     |             | 0-1    |
 | Mark Pendrith   | Tony Howes      |             | 0-1    |
 
+----
+
 ### Games
 
 ##### Martin Laizans v Tony Morris
