@@ -1,5 +1,5 @@
 ---
-title: Flood Cup, Round [1,2,7] results
+title: Flood Cup, Round [1, 2, 7] results
 date: 2018-05-04
 authors: tmorris
 ---
