@@ -9,6 +9,6 @@ authors: tmorris
 | WHITE           | BLACK           | Notes       |
 | --------------- | --------------- | ----------- |
 | Brian Willcock  | Tony Howes      |             |
-| Tony Morris     | Mark Pendrith   | *postponed* 5|
+| Tony Morris     | Mark Pendrith   | *postponed* |
 | Rex Scarf       | Martin Laizans  |             |
 | Andrew Robinson | Chesley Cutler  |             |
