@@ -8,12 +8,12 @@ authors: tmorris
 
 ###### 20180622
 
-| WHITE           | BLACK           | Result      | Notes       |
-| --------------- | --------------- | :---------: | ----------- |
-| Mark Pendrith   | Krishna Karthik | 1-0         |             |
-| Brian Willcock  | Andrew Robinson | 0-1         |             |
-| Suvan Nag       | Tony Morris     | 0-1         |             |
-| Rex Scarf       | Martin Laizans  | 0-1         |             |
+| WHITE           | BLACK           | Result      |
+| --------------- | --------------- | :---------: |
+| Mark Pendrith   | Krishna Karthik | 1-0         |
+| Brian Willcock  | Andrew Robinson | 0-1         |
+| Suvan Nag       | Tony Morris     | 0-1         |
+| Rex Scarf       | Martin Laizans  | 0-1         |
 
 ----
 
@@ -25,12 +25,18 @@ authors: tmorris
 
 ----
 
-##### Rex Scarf v Martin Laizans
+##### Brian Willcock v Andrew Robinson
 
-<iframe src="https://lichess.org/embed/jtYRXULk?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+<iframe src="https://lichess.org/embed/zxgXumBV?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
 
 ----
 
 ##### Suvan Nag v Tony Morris
 
 <iframe src="https://lichess.org/embed/Tf0fEDxy?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+
+----
+
+##### Rex Scarf v Martin Laizans
+
+<iframe src="https://lichess.org/embed/jtYRXULk?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
