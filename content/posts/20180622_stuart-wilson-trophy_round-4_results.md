@@ -27,7 +27,7 @@ authors: tmorris
 
 ##### Brian Willcock v Andrew Robinson
 
-<iframe src="https://lichess.org/embed/zxgXumBV?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+<iframe src="https://lichess.org/embed/oLYifZDW?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
 
 ----
 
