@@ -8,12 +8,12 @@ authors: tmorris
 
 ###### 20180622
 
-| WHITE           | BLACK           | Notes       |
-| --------------- | --------------- | ----------- |
-| Mark Pendrith   | Krishna Karthik |             |
-| Brian Willcock  | Andrew Robinson |             |
-| Suvan Nag       | Tony Morris     | 0-1         |
-| Tony Howes      | Rex Scarf       |             |
+| WHITE           | BLACK           | Result      | Notes       |
+| --------------- | --------------- | :---------: | ----------- |
+| Mark Pendrith   | Krishna Karthik |             |             |
+| Brian Willcock  | Andrew Robinson |             |             |
+| Suvan Nag       | Tony Morris     | 0-1         |             |
+| Tony Howes      | Rex Scarf       |             |             |
 
 ----
 
