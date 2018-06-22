@@ -11,9 +11,9 @@ authors: tmorris
 | WHITE           | BLACK           | Result      | Notes       |
 | --------------- | --------------- | :---------: | ----------- |
 | Mark Pendrith   | Krishna Karthik | 1-0         |             |
-| Brian Willcock  | Andrew Robinson |             |             |
+| Brian Willcock  | Andrew Robinson | 0-1         |             |
 | Suvan Nag       | Tony Morris     | 0-1         |             |
-| Tony Howes      | Rex Scarf       |             |             |
+| Rex Scarf       | Martin Laizans  | 0-1         |             |
 
 ----
 
@@ -22,6 +22,12 @@ authors: tmorris
 ##### Mark Pendrith v Krishna Karthik
 
 <iframe src="https://lichess.org/embed/9LU2Rg54?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+
+----
+
+##### Rex Scarf v Martin Laizans
+
+<iframe src="https://lichess.org/embed/jtYRXULk?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
 
 ----
 
