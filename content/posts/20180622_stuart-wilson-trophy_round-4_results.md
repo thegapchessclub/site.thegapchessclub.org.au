@@ -10,7 +10,7 @@ authors: tmorris
 
 | WHITE           | BLACK           | Result      | Notes       |
 | --------------- | --------------- | :---------: | ----------- |
-| Mark Pendrith   | Krishna Karthik |             |             |
+| Mark Pendrith   | Krishna Karthik | 1-0         |             |
 | Brian Willcock  | Andrew Robinson |             |             |
 | Suvan Nag       | Tony Morris     | 0-1         |             |
 | Tony Howes      | Rex Scarf       |             |             |
