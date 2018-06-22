@@ -19,6 +19,12 @@ authors: tmorris
 
 ### Games
 
+##### Mark Pendrith v Krishna Karthik
+
+<iframe src="https://lichess.org/embed/9LU2Rg54?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+
+----
+
 ##### Suvan Nag v Tony Morris
 
 <iframe src="https://lichess.org/embed/Tf0fEDxy?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
