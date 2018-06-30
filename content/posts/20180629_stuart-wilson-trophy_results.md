@@ -22,4 +22,10 @@ Bye: Martin Laizans, Mark Pendrith, Brian Willcock, Chesley Cutler
 
 ##### Tony Morris v Tony Howes
 
+----
+
 <iframe src="https://lichess.org/embed/oPGRorY4?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+
+##### Andrew Robinson v Krishna Karthik
+
+<iframe src="https://lichess.org/embed/F8GFgYHH?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
