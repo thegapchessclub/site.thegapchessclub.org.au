@@ -13,7 +13,7 @@ authors: tmorris
 | Martin Laizans | Tony Morris     | 0-1         |
 | Mark Pendrith  | Brian Willcock  |             |
 | Suvan Nag      | Karthik Krishna | 1-0         |
-| Tony Howes     | Andrew robinson |             |
+| Tony Howes     | Andrew Robinson |             |
 
 ----
 
@@ -28,3 +28,9 @@ authors: tmorris
 ##### Suvan Nag v Karthik Krishna
 
 <iframe src="https://lichess.org/embed/AETYG5Iy?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+
+----
+
+##### Tony Howes v Andrew Robinson
+
+<iframe src="https://lichess.org/embed/73jLh9RK?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
