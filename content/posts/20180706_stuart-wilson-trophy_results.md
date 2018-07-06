@@ -11,9 +11,9 @@ authors: tmorris
 | WHITE          | BLACK           | Result      |
 | -------------- | --------------- | :---------: |
 | Martin Laizans | Tony Morris     | 0-1         |
-| Mark Pendrith  | Brian Willcock  |             |
+| Mark Pendrith  | Brian Willcock  | 0-1         |
 | Suvan Nag      | Karthik Krishna | 1-0         |
-| Tony Howes     | Andrew Robinson |             |
+| Tony Howes     | Andrew Robinson | 1-0         |
 
 ----
 
