@@ -11,7 +11,7 @@ authors: tmorris
 | WHITE            | BLACK           | Result      |
 | ---------------- | --------------- | :---------: |
 | Rex Scarf        | Suvan Nag       | 1-0         |
-| Anddrew Robinson | Krishna Karthik | 1-0         |
+| Andrew Robinson  | Krishna Karthik | 1-0         |
 | Tony Morris      | Tony Howes      | 0-1         |
 
 Bye: Martin Laizans, Mark Pendrith, Brian Willcock, Chesley Cutler
@@ -22,9 +22,9 @@ Bye: Martin Laizans, Mark Pendrith, Brian Willcock, Chesley Cutler
 
 ##### Tony Morris v Tony Howes
 
-----
-
 <iframe src="https://lichess.org/embed/oPGRorY4?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+
+----
 
 ##### Andrew Robinson v Krishna Karthik
 

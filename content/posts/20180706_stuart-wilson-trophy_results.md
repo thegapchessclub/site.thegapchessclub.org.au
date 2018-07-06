@@ -1,0 +1,30 @@
+---
+title: Stuart Wilson Trophy, Round 6 results
+date: 2018-07-06
+authors: tmorris
+---
+
+### Results
+
+###### 20180706
+
+| WHITE          | BLACK           | Result      |
+| -------------- | --------------- | :---------: |
+| Martin Laizans | Tony Morris     | 0-1         |
+| Mark Pendrith  | Brian Willcock  |             |
+| Suvan Nag      | Karthik Krishna | 1-0         |
+| Tony Howes     | Andrew robinson |             |
+
+----
+
+### Games
+
+##### Martin Laizans v Tony Morris
+
+<iframe src="https://lichess.org/embed/VivaIRMA?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+
+----
+
+##### Suvan Nag v Karthik Krishna
+
+<iframe src="https://lichess.org/embed/AETYG5Iy?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
