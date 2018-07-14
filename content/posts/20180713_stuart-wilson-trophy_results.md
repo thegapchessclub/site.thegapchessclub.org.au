@@ -1,5 +1,5 @@
 ---
-title: Stuart Wilson Trophy, Results from 13 July 2018
+title: Stuart Wilson Trophy, Results, Standings and Games
 date: 2018-07-13
 authors: arobinson
 ---
@@ -14,9 +14,34 @@ authors: arobinson
 | Andrew Robinson | Suvan Nag       | 1-0         |5     |
 | Krishna Karthik | Tony Howes      | 0-1         |7     |
 
+### Current Standings as at 13 July 2018
+
+| Rank | Name            | Points | Played |
+| :--: | --------------- | :----: | :----: |
+| 1    | Tony Howes      | 4½     | 5      |
+|      |                 |        |        |
+| 2    | Andrew Robinson | 3½     | 5      |
+|      |                 |        |        |
+| 3    | Martin Laizans  | 3½     | 5      |
+|      |                 |        |        |
+| 4    | Tony Morris     | 3      | 4      |
+|      |                 |        |        |
+| 5    | Brian Willcock  | 3      | 6      |
+|      |                 |        |        |
+| 6    | Mark Pendrith   | 2½     | 6      |
+|      |                 |        |        |
+| 7    | Rex Scarf       | 2      | 4      |
+|      |                 |        |        |
+| 8    | Suvan Nag       | 2      | 6      |
+|      |                 |        |        |
+| 9    | Chesley Cutler  | 1      | 3      |
+|      |                 |        |        |
+| 10   | Krishna Karthik | 0      | 6      |
+|      |                 |        |        |
+
 ----
 
-### Games
+### Tonight's Games
 
 ##### Tony Morris v Brian Willcock
 
