@@ -8,12 +8,12 @@ authors: tmorris
 
 ###### 20180413
 
-| WHITE          | BLACK           | Notes       | Result |
-| -------------- | --------------- | ----------- | ------ |
-| Chesley Cutler | Brian Willcock  |             | 0-1    |
-| Martin Laizans | Andrew Robinson | *postponed* |        |
-| Mark Pendrith  | Rex Scarf       | *postponed* |        |
-| Tony Howes     | Tony Morris     |             | ½-½    |
+| WHITE          | BLACK           | Notes       | Result  |
+| -------------- | --------------- | ----------- | ------- |
+| Chesley Cutler | Brian Willcock  |             | 0-1     |
+| Martin Laizans | Andrew Robinson | *postponed* |         |
+| Mark Pendrith  | Rex Scarf       | *postponed* |         |
+| Tony Howes     | Tony Morris     |             | 1/2-1/2 |
 
 ----
 

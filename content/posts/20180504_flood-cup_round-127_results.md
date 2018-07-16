@@ -11,8 +11,8 @@ authors: tmorris
 | WHITE          | BLACK           | Notes       |
 | -------------- | --------------- | ----------- |
 | Mark Pendrith  | Rex Scarf       | *postponed* |
-| Tony Howes     | Andrew Robinson | ½-½         |
-| Tony Morris    | Brian Willcock  | ½-½         |
+| Tony Howes     | Andrew Robinson | 1/2-1/2     |
+| Tony Morris    | Brian Willcock  | 1/2-1/2     |
 
 ----
 
@@ -34,19 +34,19 @@ authors: tmorris
 
 | Rank | Name            | Points | Played |
 | :--: | --------------- | :----: | :----: |
-| 1    | Rex Scarf       | 4½     | 5      |
+| 1    | Rex Scarf       | 4 1/2  | 5      |
 |      |                 |        |        |
 | 2    | Tony Howes      | 4      | 6      |
 |      |                 |        |        |
-| 3    | Tony Morris     | 3½     | 6      |
+| 3    | Tony Morris     | 3 1/2  | 6      |
 |      |                 |        |        |
-| 4    | Andrew Robinson | 2½     | 4      |
+| 4    | Andrew Robinson | 2 1/2  | 4      |
 |      |                 |        |        |
-| 5    | Brian Willcock  | 2½     | 4      |
+| 5    | Brian Willcock  | 2 1/2  | 4      |
 |      |                 |        |        |
-| 6    | Mark Pendrith   | 1½     | 4      |
+| 6    | Mark Pendrith   | 1 1/2  | 4      |
 |      |                 |        |        |
 | 7    | Martin Laizans  | 1      | 5      |
 |      |                 |        |        |
-| 8    | Chesley Cutler  | ½      | 6      |
+| 8    | Chesley Cutler  | 1/2    | 6      |
 |      |                 |        |        |

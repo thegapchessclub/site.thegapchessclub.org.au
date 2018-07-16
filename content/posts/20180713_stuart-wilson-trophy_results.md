@@ -18,17 +18,17 @@ authors: arobinson
 
 | Rank | Name            | Points | Played |
 | :--: | --------------- | :----: | :----: |
-| 1    | Tony Howes      | 4½     | 5      |
+| 1    | Tony Howes      | 4 1/2  | 5      |
 |      |                 |        |        |
-| 2    | Andrew Robinson | 3½     | 5      |
+| 2    | Andrew Robinson | 3 1/2  | 5      |
 |      |                 |        |        |
-| 3    | Martin Laizans  | 3½     | 5      |
+| 3    | Martin Laizans  | 3 1/2  | 5      |
 |      |                 |        |        |
 | 4    | Tony Morris     | 3      | 4      |
 |      |                 |        |        |
 | 5    | Brian Willcock  | 3      | 6      |
 |      |                 |        |        |
-| 6    | Mark Pendrith   | 2½     | 6      |
+| 6    | Mark Pendrith   | 2 1/2  | 6      |
 |      |                 |        |        |
 | 7    | Rex Scarf       | 2      | 4      |
 |      |                 |        |        |

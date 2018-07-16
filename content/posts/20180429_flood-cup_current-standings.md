@@ -6,9 +6,9 @@ authors: tmorris
 
 | Rank | Name            | Points | Played |
 | :--: | --------------- | :----: | :----: |
-| 1    | Rex Scarf       | 4½     | 5      |
+| 1    | Rex Scarf       | 4 1/2  | 5      |
 |      |                 |        |        |
-| 2    | Tony Howes      | 3½     | 5      |
+| 2    | Tony Howes      | 3 1/2  | 5      |
 |      |                 |        |        |
 | 3    | Tony Morris     | 3      | 5      |
 |      |                 |        |        |
@@ -16,9 +16,9 @@ authors: tmorris
 |      |                 |        |        |
 | 5    | Brian Willcock  | 2      | 3      |
 |      |                 |        |        |
-| 6    | Mark Pendrith   | 1½     | 4      |
+| 6    | Mark Pendrith   | 1 1/2  | 4      |
 |      |                 |        |        |
 | 7    | Martin Laizans  | 1      | 5      |
 |      |                 |        |        |
-| 8    | Chesley Cutler  | ½      | 6      |
+| 8    | Chesley Cutler  | 1/2    | 6      |
 |      |                 |        |        |
