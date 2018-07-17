@@ -41,7 +41,7 @@ authors: arobinson
 
 ----
 
-### Tonight's Games
+### Tonight\'s Games
 
 ##### Tony Morris v Brian Willcock
 
