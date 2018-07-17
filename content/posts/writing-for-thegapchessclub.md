@@ -8,28 +8,28 @@ authors: tmorris
 
 This blog is built using [Hakyll](https://jaspervdj.be/hakyll/), a static site generator written in Haskell.
 
-If you haven\'t used Hakyll before, this will walk you through what you need to know to get going.
+If you haven't used Hakyll before, this will walk you through what you need to know to get going.
 
-If you have used Hakyll before, there are some customizations that we\'re using that you should probably know about - so keep reading.
+If you have used Hakyll before, there are some customizations that we're using that you should probably know about - so keep reading.
 
 ## How to write a post
 
 The first step is to checkout the from [github](https://github.com/thegapchessclub/thegapchessclub.org.au).
 
-The blog posts are all in the `posts` directory, so that\'s where we add new ones.
+The blog posts are all in the `posts` directory, so that's where we add new ones.
 
-If you\'re working on a draft that you want to share with people in order to get feedback, you can put it in the `drafts` directory.
-It will be treated just like a regular post, but it won\'t be linked from any of the other pages.
+If you're working on a draft that you want to share with people in order to get feedback, you can put it in the `drafts` directory.
+It will be treated just like a regular post, but it won't be linked from any of the other pages.
 
 Similarly, you can add content to the `links` directory if you have information that you want to share with people that would be noisy or off-topic if it were linked from the other pages.
 
-In either case, the content will be viewable by anyone who has the URL of the content (or anyone clicking through the github repository for the blog), but otherwise won\'t be discoverable by people clicking around on the blog.
+In either case, the content will be viewable by anyone who has the URL of the content (or anyone clicking through the github repository for the blog), but otherwise won't be discoverable by people clicking around on the blog.
 
-They are written using [Pandoc\'s Markdown](http://pandoc.org/MANUAL.html#pandocs-markdown) syntax, which is worth getting familiar with.
+They are written using [Pandoc's Markdown](http://pandoc.org/MANUAL.html#pandocs-markdown) syntax, which is worth getting familiar with.
 
 There is also support for `LaTeX`.
 This can include the use of arbitrary packages, but there are currently a few steps involved in adding new packages.
-I\'ll work on making this a bit smoother shortly.
+I'll work on making this a bit smoother shortly.
 
 ### The property block for blog posts
 
@@ -43,7 +43,7 @@ authors: tmorris
 ```
 
 The `title` and `date` fields are mandatory.
-The blog will fail to build if you leave them out, but it\'ll let you know why.
+The blog will fail to build if you leave them out, but it'll let you know why.
 
 The `authors` field is optional.
 If it is set, it should be set to a comma-separated list of nicknames of the authors.
