@@ -8,7 +8,7 @@ authors: arobinson
 ###### 20180713
 
 | WHITE           | BLACK           | Result      |Round |
-| --------------- | --------------- | :---------: |:------:
+| --------------- | --------------- | :---------: |:----:|
 | Tony Morris     | Brian Willcock  | 1-0         |3     |
 | Chesley Cutler  | Mark Pendrith   | 0-1         |5     |
 | Andrew Robinson | Suvan Nag       | 1-0         |5     |
