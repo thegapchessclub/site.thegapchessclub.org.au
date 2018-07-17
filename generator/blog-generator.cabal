@@ -2,8 +2,8 @@ name:               blog-generator
 version:            0.1.0.0
 build-type:         Simple
 cabal-version:      >= 1.10
-license:             BSD3
-license-file:        LICENCE
+license:            BSD3
+license-file:       LICENCE
 
 executable site
   main-is:          Site.hs
