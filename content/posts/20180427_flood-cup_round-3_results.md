@@ -11,7 +11,7 @@ authors: tmorris
 | WHITE              | BLACK          | Notes            |
 | ------------------ | -------------- | ---------------- |
 | Rex Scarf          | Brian Willcock | 1-0              |
-| Andrew Robinson    | Tony Morris    | 1/2-1/2          |
+| Andrew Robinson    | Tony Morris    | ½-½              |
 | ~~Chesley Cutler~~ | ~~Tony Howes~~ | *already played* |
 | Martin Laizans     | Mark Pendrith  | 0-1              |
 
