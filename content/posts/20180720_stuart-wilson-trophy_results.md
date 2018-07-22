@@ -1,5 +1,5 @@
 ---
-title: Stuart Wilson Trophy, Results, Standings and Games
+title: Stuart Wilson Trophy: 20 July 2018 update - Results, standings and games 
 date: 2018-07-20
 authors: arobinson
 ---
