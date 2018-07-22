@@ -1,8 +1,9 @@
 ---
-title: Stuart Wilson Trophy: 20 July 2018 update - Results, standings and games 
+title: Stuart Wilson Trophy, 20 July 2018 update - Results, standings and games 
 date: 2018-07-20
 authors: arobinson
 ---
+
 ### Results – 20 July 2018
 
 | WHITE           | BLACK           | Result      |Round |
@@ -13,6 +14,7 @@ authors: arobinson
 | Krishna Karthik | Chesley Cutler  | 0-1         |9     |
 
 ----
+
 ### Current Standings as at 20 July 2018
 
 | Rank | Name            | Points | Played |
@@ -44,7 +46,7 @@ authors: arobinson
 
 ##### Rex Scarf vs. Mark Pendrith
 
-<iframe src="https://lichess.org/embed/ jxeeiaZA?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+<iframe src="https://lichess.org/embed/jxeeiaZA?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
 
 ----
 
@@ -56,12 +58,12 @@ authors: arobinson
 
 ##### Brian Willcock vs. Suvan Nag
 
-<iframe src="https://lichess.org/embed/ MLdlXk3h?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+<iframe src="https://lichess.org/embed/MLdlXk3h?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
 
 ----
 
 ##### Krishna Karthik vs. Chesley Cutler
 
-<iframe src="https://lichess.org/embed/ j1PGVuY1?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+<iframe src="https://lichess.org/embed/j1PGVuY1?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
 
 ----
