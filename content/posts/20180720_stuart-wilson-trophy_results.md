@@ -9,8 +9,8 @@ authors: arobinson
 
 | WHITE           | BLACK           | Result      |Round |
 | --------------- | --------------- | :---------: |:----:|
-| Rex Scarf       | Mark Pendrith   | 1/2-1/2     |7     |
-| Andrew Robinson | Martin Laizans  | 1/2-1/2     |7     |
+| Rex Scarf       | Mark Pendrith   | Draw        |7     |
+| Andrew Robinson | Martin Laizans  | Draw        |7     |
 | Brian Willcock  | Suvan Nag       | 1-0         |7     |
 | Krishna Karthik | Chesley Cutler  | 0-1         |9     |
 
@@ -19,25 +19,25 @@ authors: arobinson
 
 | Rank | Name            | Points | Played |
 | :--: | --------------- | :----: | :----: |
-| 1    | Tony Howes      | 4 1/2  | 5      |
+| 1    | Tony Howes      | 4.5    | 5      |
 |      |                 |        |        |
-| 2    | Andrew Robinson | 4      | 6      |
+| 2    | Andrew Robinson | 4.0    | 6      |
 |      |                 |        |        |
-| 3    | Martin Laizans  | 4      | 6      |
+| 3    | Martin Laizans  | 4.0    | 6      |
 |      |                 |        |        |
-| 4    | Brian Willcock  | 4      | 7      |
+| 4    | Brian Willcock  | 4.0    | 7      |
 |      |                 |        |        |
-| 5    | Tony Morris     | 3      | 4      |
+| 5    | Tony Morris     | 3.0    | 4      |
 |      |                 |        |        |
-| 6    | Mark Pendrith   | 3      | 7      |
+| 6    | Mark Pendrith   | 3.0    | 7      |
 |      |                 |        |        |
-| 7    | Rex Scarf       | 2 1/2  | 5      |
+| 7    | Rex Scarf       | 2.5    | 5      |
 |      |                 |        |        |
-| 8    | Chesley Cutler  | 2      | 4      |
+| 8    | Chesley Cutler  | 2.0    | 4      |
 |      |                 |        |        |
-| 9    | Suvan Nag       | 2      | 7      |
+| 9    | Suvan Nag       | 2.0    | 7      |
 |      |                 |        |        |
-| 10   | Krishna Karthik | 0      | 7      |
+| 10   | Krishna Karthik | 0.0    | 7      |
 |      |                 |        |        |
 
 ----
