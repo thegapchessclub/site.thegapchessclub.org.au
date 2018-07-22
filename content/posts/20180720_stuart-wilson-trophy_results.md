@@ -3,9 +3,7 @@ title: Stuart Wilson Trophy: 20 July 2018 update - Results, standings and games
 date: 2018-07-20
 authors: arobinson
 ---
-### Results
-
-###### 20180720
+### Results – 20 July 2018
 
 | WHITE           | BLACK           | Result      |Round |
 | --------------- | --------------- | :---------: |:----:|
@@ -42,7 +40,7 @@ authors: arobinson
 
 ----
 
-### Tonight's Games
+### Games played - 20 July 2018
 
 ##### Rex Scarf vs. Mark Pendrith
 
