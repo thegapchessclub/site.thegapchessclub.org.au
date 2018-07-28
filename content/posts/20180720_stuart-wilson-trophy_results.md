@@ -8,8 +8,8 @@ authors: arobinson
 
 | WHITE           | BLACK           | Result      |Round |
 | --------------- | --------------- | :---------: |:----:|
-| Rex Scarf       | Mark Pendrith   | Draw        |7     |
-| Andrew Robinson | Martin Laizans  | Draw        |7     |
+| Rex Scarf       | Mark Pendrith   | ½-½         |7     |
+| Andrew Robinson | Martin Laizans  | ½-½         |7     |
 | Brian Willcock  | Suvan Nag       | 1-0         |7     |
 | Krishna Karthik | Chesley Cutler  | 0-1         |9     |
 
