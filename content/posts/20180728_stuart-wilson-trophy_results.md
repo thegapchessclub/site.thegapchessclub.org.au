@@ -4,7 +4,7 @@ date: 2018-07-28
 authors: tmorris
 ---
 
-### Results – 28 July 2018
+### Results – 27 July 2018
 
 | WHITE           | BLACK           | Result      |
 | --------------- | --------------- | :---------: |
@@ -13,15 +13,15 @@ authors: tmorris
 
 ----
 
-### Current Standings as at 20 July 2018
+### Current Standings as at 27 July 2018
 
 | Rank | Name            | Points | Played |
 | :--: | --------------- | :----: | :----: |
-| 1    | Tony Howes      | 4.5    | 5      |
+| 1    | Martin Laizans  | 5.0    | 7      |
 |      |                 |        |        |
-| 2    | Andrew Robinson | 4.5    | 7      |
+| 2    | Tony Howes      | 4.5    | 5      |
 |      |                 |        |        |
-| 3    | Martin Laizans  | 5.0    | 7      |
+| 3    | Andrew Robinson | 4.5    | 7      |
 |      |                 |        |        |
 | 4    | Brian Willcock  | 4.0    | 7      |
 |      |                 |        |        |
@@ -45,3 +45,9 @@ authors: tmorris
 ##### Tony Morris vs. Andrew Robinson
 
 <iframe src="https://lichess.org/embed/cBSnKVOM?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+
+----
+
+##### Martin Laizans vs. Chesley Cutler
+
+<iframe src="https://lichess.org/LG7oQcUs?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
