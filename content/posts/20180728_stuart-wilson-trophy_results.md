@@ -50,4 +50,4 @@ authors: tmorris
 
 ##### Martin Laizans vs. Chesley Cutler
 
-<iframe src="https://lichess.org/LG7oQcUs?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+<iframe src="https://lichess.org/embed/LG7oQcUs?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
