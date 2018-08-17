@@ -32,3 +32,9 @@ authors: tmorris
 ##### Martin Laizans v Brian Willcock
 
 <iframe src="https://lichess.org/embed/raX7f73A?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+
+----
+
+##### Suvan Nag v Tony Howes
+
+<iframe src="https://lichess.org/embed/eOTP24z8?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
