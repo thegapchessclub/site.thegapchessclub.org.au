@@ -18,7 +18,7 @@ authors: tmorris
 
 ##### Rex Scarf v Tony Morris
 
-<iframe src="https://lichess.org/embed/ZyP6brSU?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+<iframe src="https://lichess.org/embed/DYReFcVy?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
 
 ----
 
