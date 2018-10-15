@@ -1,5 +1,5 @@
 ---
-title: Allegro Tournament, 06 October 2018
+title: Allegro Tournament, 6 October 2018
 date: 2018-10-06
 authors: arobinson
 ---
@@ -11,22 +11,22 @@ The Fischer time control used is ten minutes plus ten seconds.
 
 ----
 
-### Results – 14 September 2018
+### Results
 
 | Date        |  PLAYER 1               | PLAYER 2                | Result             |
 | ----------- | ----------------------- | ----------------------- | :----------------: |
 | 14 Sep 2018 | George Flitcroft-Smith  | Tony Morris             | 1-1                |
 | 14 Sep 2018 | Joshua Morris           | Martin Laizans          | 2-0                |
-| 14 Sep 2018 | Andrew Robinsons        | Rex Scarf               | 1½-½               |
+| 14 Sep 2018 | Andrew Robinson         | Rex Scarf               | 1½-½               |
 | 14 Sep 2018 | Joshua Morris           | Brian Willcock          | 2-0                |
 | 14 Sep 2018 | George Flitcroft-Smith  | Rex Scarf               | 1-0 (George black) |
 | 21 Sep 2018 | Rex Scarf               | Brian Willcock          | 2-0                |
-| 21 Sep 2018 | Andrew Robinsons        | Brian Willcock          | 1-0 (Andrew white) |
+| 21 Sep 2018 | Andrew Robinson         | Brian Willcock          | 1-0 (Andrew white) |
 | 28 Sep 2018 | Martin Laizans          | Rex Scarf               | 2-0                |
 | 05 Oct 2018 | George Flitcroft-Smith  | Rex Scarf               | ½-½ (George white) |
 | 05 Oct 2018 | Joshua Morris           | Andrew Robinson         | 2-0                |
 | 05 Oct 2018 | Tony Morris             | Brian Willcock          | 2-0                |
-| 05 Oct 2018 | Andrew Robinsons        | Brian Willcock          | 1-0 (Andrew black) |
+| 05 Oct 2018 | Andrew Robinson         | Brian Willcock          | 1-0 (Andrew black) |
 | 05 Oct 2018 | Joshua Morris           | George Flitcroft-Smith  | 1½-½               |
 
 ----
