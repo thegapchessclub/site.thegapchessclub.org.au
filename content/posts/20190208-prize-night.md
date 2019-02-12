@@ -6,7 +6,9 @@ authors: tmorris
 
 ### Club Prize Night
 
-On the evening of The Gap Chess Club Prize night, we will be presenting the winners of the club tournaments for 2018. Awards include some of the club's chess clocks that are no longer used, but in full working condition. There will also be a trophy for a casual tournament held on the night.
+This coming Friday (15 February) is The Gap Chess Club Prize night we will be presenting the winners with trophies of the club tournaments for 2018.
+
+We will also be announcing additional prizes for the 2019 tournaments.
 
 ----
 
