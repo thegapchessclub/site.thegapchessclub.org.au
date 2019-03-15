@@ -32,4 +32,4 @@ authors: tmorris
 
 ##### Tony Howes v Cameron De Vere
 
-<iframe src="https://lichess.org/embed/jSkSe9gD?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
+<iframe src="https://lichess.org/embed/2CzrmNUm?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
