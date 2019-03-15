@@ -6,12 +6,12 @@ authors: tmorris
 
 ### Draw
 
-| WHITE          | BLACK              |
-| -------------- | ------------------ |
-| Mark Pendrith  | Andrew Robinson    |
-| Martin Laizans | Tony Howes         |
-| Tony Morris    | Rex Scarf          |
-| Cameron DeVere | George Karassoulos |
+| WHITE          | BLACK                  |
+| -------------- | ---------------------- |
+| Mark Pendrith  | Andrew Robinson        |
+| Martin Laizans | Tony Howes             |
+| Tony Morris    | Rex Scarf              |
+| Cameron DeVere | George Flitcroft-Smith |
 
 ----
 
