@@ -16,13 +16,13 @@ authors: tmorris
 
 ----
 
+### Games
+
 ##### George Flitcroft-Smith v Tony Morris
 
 <iframe src="https://lichess.org/embed/Tv1ie45I?theme=auto&amp;bg=auto" width=600 height=397 frameborder=0></iframe>
 
 ----
-
-### Games
 
 ##### Rex Scarf v Mark Pendrith
 
