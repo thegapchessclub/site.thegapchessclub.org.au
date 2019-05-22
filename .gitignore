@@ -1,2 +1,9 @@
+/_cache
+/.cabal-sandbox
+/cabal.sandbox.config
 /dist
-/result
+/dist-newstyle
+/public
+/.stack-work
+/thumb
+/thumbs.db
